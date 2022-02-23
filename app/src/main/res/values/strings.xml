@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Cppdarslari</string>
+    <string name="example">Example</string>
+    <string name="more">More</string>
+    <string name="you_tube_channel">You Tube Channel</string>
+    <string name="c_example">C++ Example</string>
+    <string name="c_boshlang_ich_tushuncha">C++ boshlang\'ich tushuncha</string>
+    <string name="c_oop">C++ OOP</string>
+    <string name="namunalar">Namunalar</string>
+    <string name="yana">Yana</string>
+    <string name="c_namunalar">C++ Namunalar</string>
+    <string name="it_kompaniyalar">IT Kompaniyalar</string>
+
+
+    <!-- kompaniyalar haqida ma'lumot    -->
+    <string name="google">
+        Google LLC -  Amerikaning internetga oid xizmatlar va mahsulotlar,
+        jumladan, onlayn reklama texnologiyasi, qidiruvi, dasturiy taʼminot
+        va apparatura sohasidagi ixtisoslashgan ko`p tilli texnologiya kompaniyasi.
+        U Amazon, Apple va Facebook bilan birga Katta Toʻrtlik texnologiya kompaniyalaridan biri sanaladi.
+        \n\nGoogle haqida qiziqarli faktlar\n\n
+        1. Larri Peyj va Sergey Brin 1998 yil 4-sentabrda Google firmasiga asos solishgan\n\n
+        2. Bugungi kunda Google kompaniyasida 72 mingdan ortiq ishchi ishlaydi\n\n
+        3. Google klaviaturada harflarning ko`p bosilib ketilishidan hosil bolgan domenga ega.
+        misol uchun: Google.com, Gogle.com, Goglr.com bundan tashqari 466453.com domeni ham
+        Googlega tegishli.Bu raqamlar telefon klavyaturasida google harflaridir\n\n
+        4. Google so`zi matematikadagi 1 dan so`ng 100 ta 0 bo`lgan "gugol" so`zidan olingan\n\n
+        5. Google AQShdagi eng yaxshi 10 ta mobil ilovadan 5 tasiga egalik qiladi:
+        YouTube, Google Play, Google Maps, Gmail va Google Search.
+    </string>
+
+    <string name="apple">
+        Apple - dunyodagi eng mashhur top 3 brendlardan biri.\n
+        Apple kompaniyasiga 1976 yil 1 aprelda Stiven Pol Jobs,
+        Stiven Gari Voznyak va Ronald Gerald Ueynlar tomonidan asos solingan\n\n
+        Apple haqida qiziqarli ma`lumotlar \n\n
+        1.Dunyo bo`ylab Apple uchun 80 000dan ortiq xodimlar ishlaydi\n\n
+        2.Kuniga 340 000 iPhone sotiladi. 2012 yilda Apple eng ko`p telefon sotgan yil hisoblanadi\n\n
+        3.Apple daromadi daqiqasiga 300 000 AQSh dollariga teng\n\n
+        4.Apple kompaniyasi ishlab chiqargan texnikalar oldida chekish
+        mumkin emas, chunki uning kafolatiga putur yetishi mumkin.
+    </string>
+    <string name="meta">
+        Facebook (talaffuzi: feysbuk) — 2004-yilda Harvard universiteti talabasi
+        Mark Zuckerberg tomonidan va qoʻshni xonadagi Eduardo Saverin,
+        Dustin Moskovitz va Chris Hughes tomonidan asos solingan ijtimoiy tarmoq.
+        Saytning butun dunyoda ommalashib ketgani bois,
+        Mark Zuckerberg 23 yoshida dunyoning eng yosh milliarderi deya tan olindi\n
+        2021 yil Facebook kompaniyasi nomini Metaga o`zgartirdi.
+        Bu haqda kompaniya asoschisi Mark Sukerberg Facebook Connect taqdimotida malum qildi.
+        Metaolamning asosiy maqsadi — odamlarni bir-biriga bog`lash va ularga muloqot qilishda
+        yordam berishdir, deydi Sukerberg.
+        Bunday virtual dunyoda avatarlar ko`rinishida muloqot qilish va real olamdagi barcha
+        kontentni gologramma shaklida ko`rish mumkin bo`ladi. Facebook,
+        Instagram va WhatsApp Metada ishlashda davom etadi, shu bilan birga
+        "metaolamni" parallel ravishda rivojlantiradi.
+    </string>
+    <string name="microsoft">
+        Maykrosoft korporatsiyasi (Microsoft Corporation, Microsoft) — har xil turdagi
+        hisoblash uskunalari: shaxsiy kompyuterlar, o`yin pristavkalari, PDA`lar, mobil
+        telefonlar va boshqalar uchun dasturiy ta`minot ishlab chiqaruvchi eng
+        yirik transmilliykompaniyalardan biridir. Ayni paytda dunyoda
+        eng keng tarqalgan dasturiy platforma — Windows operatsion tizimlar oilasi
+        ham shu korporatsiyaga tegishlidir.
+        Microsoft ko`p marotaba sudga tortilgan.
+        So`nggi o`n yilliklardagi bu mojarolarning katta qismi esa monopoliya siyosatiga bog`liq.
+        Microsoftga ishga kirayotganlarga intervyuda g`alati savollar berishadi.
+        "Nega kanalizatsiya teshigining qopqog`i dumaloq?" kabi. Korporatsiyadagi
+        suhbat paytida shablon savollar Microsoft tomonidan ishlab chiqarilmaydigan
+        mahsulotni loyihalash to`g`risidagi so`rov bilan almashtirilib qolishi ham mumkin.
+        Masalan, gap kosmonavtlar uchun kofe qaynatgich
+        haqida bo`lishi mumkin. Biroq, ahmoqona ko`rinadigan bu amaliyot ijodiy fikrlashga
+        ega nomzodlarni aniqlashga imkon beradi.\n
+        Kompaniyaning 1986 yildagi bir dona aksiyasi 21 dollarni tashkil qilgan.
+        Bu ko`rsatkich bugungi kunga kelib bir necha ming dollarni tashkil qiladi
+    </string>
+
+
+    <!--    Dasturlash tillari haqida ma'lumot-->
+
+    <string name="java">
+        Hozirgi kunda Java tili eng keng tarqalgan va ommalashgan dasturlash tillaridan biridir.
+        Java 1990 yillarda ishlab chiqarila boshlangan bo`lsa xam, uning birinchi versiyasi(Java 1.0)
+        1996 yil ommaga taqdim etilgan. Undan so`ng keyingi versiyalar sekin-astalik bilan chiqa boshlagan.
+        1998 yil — Java 2,  2004 yil — Java 5.0, 2006 yil — Java 6, 2011 yil — Java 7, 2014 yil — Java 8,
+        2017 yil 21 sentabrda – Java 9.  JAVA 1995-yilda Sun Microsystem Inc tomonidan rivojlantirilgan,
+        keyinroq Oracle korparatsiyasi unga ega chiqdi.  JAVA tili
+        James Gosling va Patrik Nafton tomonidan kashf qilingan.
+        Java dasturlash tili statik tillar orasida o`z o`rniga ega.
+        Java dasturlash tili asosan Mobile dasturlash (Android OS) va web dasturlash
+        (backend) uchun ishlatiladi.Java dasturlash tilida asosan yirik dasturlar yoziladi,
+        Javada kichik loyihalarni ko`tarish noqulay.Ularni ishlashi ancha sekin va kuchli server
+        talab qiladi.Java dasturlash tilida Twitter,Spofity kabi mashhur dasturlar
+        ishlab chiqilgan.
+    </string>
+    <string name="python">
+        Python dasturlash tili Guido van Rossum tomonidan 1991 yilda ishlab chiqilgan.
+        Bu dasturlash tili o`rganish uchun oson, foydalanish uchun qulay,
+        ko`p qirrali dasturlash tili bo`lib, dasturlashga yangi kirganlar uchun ham,
+        soha mutaxassislari uchun ham zo`r tanlov.
+        Python nisbatan kam kalit so`zlar, oddiy
+        tuzulishga ega.Python dastrulash tili dinamik dasturlash tillari oilasiga kiradi.
+        Python barcha Ma`lumotlar bazasini qo`llab quvvatlaydi.
+        Pythonni mashhur bo`lishiga asosiy sabab, bu tilda AL(Sun`iy intelekt) bilan ishlash qulayligida.
+        Python dasturlash tiliga bo`lgan talab yildan yilga oshib bormoqda. CodingDojo portalining
+        tadqiqotlariga ko`ra, 2020-2021-yillarda aynan Python tilida dasturlovchi
+        mutaxassislarga eng ko`p talab bo`lgan.
+    </string>
+    <string name="cpp">
+        C++ (talaffuzi: si plyus plyus) — turli maqsadlar uchun mo`ljallangan
+        dasturlash tili. 1979-yili Bell Labsda Biyarne Stroustrup tomonidan
+        C dasturlash tilining imkoniyatlarini kengaytirish va OOP(object Oriented Programming)
+        xususiyatini kiritish maqsadida ishlab chiqarilgan. Boshida "C with Classes" deb atalgan,
+        1983-yili hozirgi nom bilan ya`ni C++ deb o`zgartirilgan. C++ C da yozilgan dasturlarni
+        kompilyatsiya qila oladi, ammo C kompilyatori bu xususiyatga ega emas. C++ tili operatsiyon
+        tizimlarga aloqador qisimlarni, klient-server dasturlarni, EHM o`yinlarini, kundalik ehtiyojda
+        qo`llaniladigan dasturlarni va shu kabi turli maqsadlarda ishlatiladigan dasturlarni ishlab chiqarishda qo`llaniladi.
+        YouTube, Windows os,Microsoft office,My Sql,Mozilla fireFox,Amazon,Adobe Photoshop kab dasturlar
+        shu dasturlash tilida yozilgan.
+    </string>
+    <string name="swift">
+        Swift — Apple Inc. tomonidan iOS, iPadOS, macOS, watchOS, tvOS va Linux uchun
+        ishlab chiqilgan umumiy maqsadli, multi-paradigmali, kompilyatsiyalangan dasturlash
+        tili. Swift Applening Cocoa va Cocoa Touch freymvorklari hamda Apple mahsulotlari
+        uchun yozilgan mavjud Objective-C kodining katta tanasi bilan ishlash uchun mo`ljallangan.
+        U ochiq manbali LLVM kompilyator freymvorki bilan qurilgan va 2014-yilda chiqarilgan
+        6-versiyadan buyon Xcode ga kiritilgan. Apple platformalarida u C, Objective-C,
+        C++ va Swift kodlarini bir xil dasturda ishlashga imkon beradigan Objective-C runtime kutubxonasidan foydalanadi.
+    </string>
+    <string name="kotlin">
+        Kotlin - Intellij IDEA nomli eng aqlli Java IDE ning rasmiy dizayneri
+        JetBrains tomonidan kiritilgan dasturlash tili. Bu JVM da ishlaydigan qat`iy statik usulda yozilgan til.
+        2017 yilda Google Kotlin - android ishlab chiqish uchun rasmiy til ekanligini e`lon qildi. Kotlin - bu ob`ektga
+        yo`naltirilgan dasturlash va funktsional xususiyatlarni noyob platformaga birlashtirgan ochiq kodli dasturlash tili.
+        Tarkibi sodda va foydali misollar bilan bog`liq mavzularni o`z ichiga olgan turli boblarga bo`lingan.
+        Android uchun Kotlinda dasturlarni ishlab chiqish ishlab chiquvchilar orasida ommalashib bormoqda.
+        Kotlinning bosh maqsadi bugungi kunda Java foydalaniladigan barcha joylarda, Javaning o`rnini bosa oladigan
+        qisqaroq, samaraliroq, ishonchliroq muqobil bilan ta`minlashdir. Java nihoyatda mashhur til hisoblanadi
+        va u keng miqyosdagi muhitda: Smart card dan tortib Google, Twitter, LinkedIn va boshqa internet sohasidagi
+        kompaniyalar tomonidan yuritiladigan eng katta ma`lumot bazalarida ham foydalaniladi.
+        Ushbu joylarning ko`pchiligida, Kotlindan foydalanish dasturchilarga kamroq asabiylashish va kamroq
+        kod yozishlar bilan o`z maqsadlariga erishishida ko`maklashadi.
+    </string>
+    <string name="go">
+        Google kompaniyasi o`zining shaxsiy dasturlash tilini ishlab chiqganligi ko`pchilikka sir emas.
+        Bugungi kunda ushbu kompaniya texnologiya sohasida tassavur qilish mumkin bo`lgan har qanday
+        yo`nalishga shiddat bilan kirib, o`z inqiloblarini hosil qilishmoqda. Xuddi shu kabi Google
+        kompaniyasining asosiy "muloqot" tili hisoblangan Go dasturlash tili 2007-yilda Robert Griesemer,
+        Rob Pike va Ken Tompsonlar tomonidan ishlab chiqilgan bo`lib, 2009-yilda rasman ochiq kodli
+        dasturlash tili sifatida ommaga taqdim etilgan. To`g`ri u JavaScript yoki Python kabi dasturlash tillari
+        kabi mashxur bo`lib ulgurmagan bo`lsada, Go dasturlash tili foydalanuvchilarga ko`plab imkoniyatlar yaratib bera oladi.
+        Oddiy kod, odatda, murakkab koddan xavfsizroqdir va bu aynan Goga tegishli. Statik yozilgan til sifatida
+        siz yanada dinamik tillarda mavjud bo`lgan o`zgaruvchan turlarning sonidan kelib chiqadigan xatolarni
+        aniqlash qiyin va murakkab emas. Shu bilan bir qatorda unda dastur kodingizni oshib ketmasligi uchun
+        ortiqcha kodlarni yig`adigan maxsus xotira qutisi ham mavjuddir. Garchi generiklarning yo`qligi kodlarni
+        ishlatadigan testlarni sinchkovlik bilan bajarish kerakligini anglatsa-da, xatolarni aniqlash boshqa
+        alternativalarga qaraganda osonroq va umuman toza kodni yozishda yanada yaxshiroq yondoshishga yordam beradi.
+    </string>
+    <string name="javascript">
+        "JavaScript" nomi Netscape kompaniyasining xususiy maxsuloti hisoblanadi.
+        Microsoft tomonidan amalga oshirilgan til rasman Jscript deb nomlanadi. Jscript versiyalari
+        Javascriptning mos versiyalari bilan mos keladi (aniqroq qilib aytganda oxirigacha emas).
+        Javascript, ECMA (European Computer Manufacturers Association — Yeropa kompyuter ishlab
+        chiqaruvchilar assotsiyatsiyasi) tomonidan standartlashtirilgan.
+        Mos standartlar quydagicha nomlanadi: ECMA-262 va ISO-16262. Ushbu standartlar bilan Javascript 1.1ga
+        taqriban ekvivalent ECMAScript tili aniqlanadi. Eslatish joizki, bugungi kunda
+        Javascript ning hamma versiyalari ham ECMA standartlariga mos kelavermaydi.
+        Javascript, bu Internet uchun katta bo`lmagan xaridor va server ilovalarni yaratishga
+        mo`ljallangan nisbatan oddiy jismga yo`naltirilgan til. Javascript tilida tuzilgan dasturlar
+        HTML hujjatning ichiga joylashtirilib ular bilan birga uzatiladi. Ko`rish dasturlari (brauzerlar va hokazo)
+        Netscape Navigator va Microsoft Internet Explorer hujjat matniga joylashtirilgan dasturlarni (Scriptkod)
+        uzatishadi va bajarishadi. Shunday qilib, Javascript — interpritatorli dasturlash tili hisoblanadi.
+        Javascriptda tuzilgan dasturlarga foydalanuvchi tomonidan kiritilayotgan ma`lumotlarni tekshirayotgan
+        yoki hujjatni ochganda yoki yopganda biror bir amallarni bajaruvchi dasturlar misol bo`lishi mumkin.
+    </string>
+
+
+</resources>
